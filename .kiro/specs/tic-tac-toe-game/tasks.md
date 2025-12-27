@@ -6,7 +6,7 @@ Implementation of a Vue.js 3 tic-tac-toe game using TypeScript and the Compositi
 
 ## Tasks
 
-- [ ] 1. Set up project structure and dependencies
+- [x] 1. Set up project structure and dependencies
   - Initialize Vue 3 project with TypeScript support
   - Install testing dependencies (Vitest, Vue Test Utils, fast-check)
   - Configure TypeScript and testing setup
